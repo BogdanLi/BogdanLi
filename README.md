@@ -5,15 +5,9 @@
 
 - 🌱 I’m currently learning **Pandas, Numpy, Matpotlib, Data Science and AI**
 
-- 👨‍💻 All of my projects are available at [-](-)
-
-- 📝 I regularly write articles on [-](-)
-
 - 💬 Ask me about **HTML,CSS,JS,Bootstrap,Python,Pandas,Numpy,Kotlin,Android Studio**
 
 - 📫 How to reach me **li.bogdan44@gmail.com**
-
-- 📄 Know about my experiences [-](-)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
