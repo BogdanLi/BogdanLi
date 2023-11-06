@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Skills Accelerator Ilmhona as instructor of programming courses](https://ilmhona.org)
 
-- 🌱 I’m currently learning **Pandas, Numpy, Matpotlib, Data Science and AI**
+- 🌱 I’m currently learning **Pandas, Numpy, Matplotlib, Data Science and AI**
 
 - 💬 Ask me about **HTML,CSS,JS,Bootstrap,Python,Pandas,Numpy,Kotlin,Android Studio**
 
