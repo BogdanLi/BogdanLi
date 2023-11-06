@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Li Bogdan</h1>
 <h3 align="center">A young developer and UX/UI designer from Tajikistan</h3>
 
-- 🔭 I’m currently working at [Skills Accelerator Ilmhona as instructor of programming courses](https://ilmhona.org) and [Megafon Academy](http://academy.megafon.tj)
+- 🔭 I’m currently working at [Skills Accelerator Ilmhona](https://ilmhona.org) and [Megafon Academy](http://academy.megafon.tj)
 
 - 🌱 I’m currently learning **Pandas, Numpy, Matplotlib, Data Science and AI**
 
