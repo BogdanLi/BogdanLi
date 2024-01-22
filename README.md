@@ -2,8 +2,8 @@
 <h3 align="center">Front end Developer</h3>
 
 - 🌱 I’m currently learning **Next.js, Nuxt** <br> - 💬 Ask me about **React, Vue,
-JS, Python** - 📫 How to reach me **li.bogdan44@gmail.com** - My Resume
-[https://docs.google.com/document/d/1hnq3EHT33YOct7esBDdUkEoDi3Onpz7wXg7JUo5Cnx4/edit?usp=sharing](https://docs.google.com/document/d/1hnq3EHT33YOct7esBDdUkEoDi3Onpz7wXg7JUo5Cnx4/edit?usp=sharing)
+JS, Python** <br> - 📫 How to reach me **li.bogdan44@gmail.com** <br> - My Resume
+[https://docs.google.com/document/d/1hnq3EHT33YOct7esBDdUkEoDi3Onpz7wXg7JUo5Cnx4/edit?usp=sharing](https://docs.google.com/document/d/1hnq3EHT33YOct7esBDdUkEoDi3Onpz7wXg7JUo5Cnx4/edit?usp=sharing) <br>
 - ⚡ Fun fact **I can reply in my head but forget in real life**
 
 <h3 align="left">Connect with me:</h3>
