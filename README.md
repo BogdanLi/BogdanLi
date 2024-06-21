@@ -1,4 +1,5 @@
 <h1 align="left">Bogdan Li</h1>
+
 # Front-end React Developer at livo [https://livo.tj/]
 
 <h3>My stack</h3>
