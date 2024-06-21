@@ -1,7 +1,7 @@
 <h1 align="left">Bogdan Li</h1>
 <h2 align="left">
     Front-end React Developer at 
-    <a href="https://livo.tj/">Livo</a>
+    livo [https://livo.tj/]
 </h2>
 
 <h3>My stack</h3>
