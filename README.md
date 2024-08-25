@@ -10,6 +10,8 @@
 <p>Tools and frameworks:</p>
 
 - React.js
+- TypeScript
+- Astro
 - Next.js
 - TypeScript
 - Vite
