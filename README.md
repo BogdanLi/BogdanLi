@@ -13,7 +13,6 @@
 - TypeScript
 - Astro
 - Next.js
-- TypeScript
 - Vite
 
 <p>Libraries:</p>
