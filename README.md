@@ -1,6 +1,6 @@
 <h1 align="left">Bogdan Li</h1>
 
-# Front-end React Developer at [livo](https://livo.tj/)
+# Front-end React Developer
 
 ## Connect with me
 - Email: **li.bogdan44@gmail.com**
