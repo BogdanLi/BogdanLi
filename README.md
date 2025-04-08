@@ -1,4 +1,4 @@
-![banner](https://i.ibb.co/ZpfXHFLC/Linkedin-Banner.png)
+![banner](https://resume.bogdan-li.xyz/Linkedin%20Banner.png)
 
 # Front-end React Developer
 
